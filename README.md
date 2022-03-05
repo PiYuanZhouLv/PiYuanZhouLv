@@ -75,18 +75,18 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
     </td>
   </tr>
   <tr>
-    <td><!--
+    <td>
       <a href="">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon">
       </a>
-      <br/>-->
+      <br/>
       <center> Coming Soon 即将到来 </center>
     </td>
-    <td><!--
+    <td>
       <a href="">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Danger-Chat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon">
       </a>
-      <br/>-->
+      <br/>
       <center> Coming Soon 即将到来 </center>
     </td>
   </tr>
