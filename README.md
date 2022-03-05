@@ -76,14 +76,14 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/PiYuanZhouLv/">
+      <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon&theme=shades-of-purple">
       </a>
       <br/>
       <center> Coming Soon 即将到来 </center>
     </td>
     <td>
-      <a href="https://github.com/PiYuanZhouLv/">
+      <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon&theme=shades-of-purple">
       </a>
       <br/>
