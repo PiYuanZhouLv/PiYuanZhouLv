@@ -14,9 +14,9 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
 ## Statistics 统计
 
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=PiYuanZhouLv&show_icons=true&locale=cn">
+<img src="https://github-readme-stats.vercel.app/api?username=PiYuanZhouLv&show_icons=true&locale=cn&theme=shades-of-purple">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuanZhouLv&locale=cn">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuanZhouLv&locale=cn&theme=shades-of-purple">
 </p>
 
 > Summon by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -29,14 +29,14 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
   <tr>
     <td>
       <a href="https://github.com/PiYuanZhouLv/Brainfuck">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Brainfuck">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Brainfuck&theme=shades-of-purple">
       </a>
       <br/>
       <center> Finished 已完成 </center>
     </td>
     <td>
       <a href="https://github.com/PiYuanZhouLv/Enigma">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Enigma">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Enigma&theme=shades-of-purple">
       </a>
       <br/>
       <center> Finished 已完成 </center>
@@ -45,14 +45,14 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
   <tr>
     <td>
       <a href="https://github.com/PiYuanZhouLv/SuiJiChouHao">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=SuiJiChouHao">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=SuiJiChouHao&theme=shades-of-purple">
       </a>
       <br/>
       <center> Making New Version 正在制作新版本 </center>
     </td>
     <td>
       <a href="https://github.com/PiYuanZhouLv/Unusual">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Unusual">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Unusual&theme=shades-of-purple">
       </a>
       <br/>
       <center> Making First Version 正在制作第一个版本 </center>
@@ -61,14 +61,14 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
   <tr>
     <td>
       <a href="https://github.com/PiYuanZhouLv/ZhongKaoDaoJiShi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=ZhongKaoDaoJiShi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=ZhongKaoDaoJiShi&theme=shades-of-purple">
       </a>
       <br/>
       <center> Nearly Finished 几乎完成 </center>
     </td>
     <td>
       <a href="https://github.com/PiYuanZhouLv/Danger-Chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Danger-Chat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Danger-Chat&theme=shades-of-purple">
       </a>
       <br/>
       <center> Paused Project 暂停项目 </center>
@@ -77,14 +77,14 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
   <tr>
     <td>
       <a href="https://github.com/PiYuanZhouLv/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon&theme=shades-of-purple">
       </a>
       <br/>
       <center> Coming Soon 即将到来 </center>
     </td>
     <td>
       <a href="https://github.com/PiYuanZhouLv/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiYuanZhouLv&repo=Coming-Soon&theme=shades-of-purple">
       </a>
       <br/>
       <center> Coming Soon 即将到来 </center>
