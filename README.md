@@ -13,11 +13,16 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
 
 ## Statistics 统计
 
-<p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=PiYuanZhouLv&show_icons=true&locale=cn&theme=shades-of-purple">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuanZhouLv&locale=cn&theme=shades-of-purple">
-</p>
+<table align="center" width="100%" vaglin="middle">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PiYuanZhouLv&show_icons=true&locale=cn&theme=shades-of-purple">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiYuanZhouLv&locale=cn&theme=shades-of-purple">
+    </td>
+  </tr>
+</table>
 
 > Summon by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 > 
@@ -25,7 +30,7 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
 
 ## Some repo 一些仓库
 
-<table align="center">
+<table align="center" vaglin="middle">
   <tr>
     <td>
       <a href="https://github.com/PiYuanZhouLv/Brainfuck">
