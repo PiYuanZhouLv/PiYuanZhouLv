@@ -12,9 +12,16 @@ I'm also sorry for my poor English. ~(althought I always get a high mark in Engl
 我也为我并不是非常好的英语感到抱歉。 ~(尽管我经常拿高分)~ 所以，如果你找到了语法错误，请忽略它或帮我更正。
 
 ## Why PiYuanZhouLv? 为什么叫 Pi圆周率?
-Because we Chinese are all proud at our great progress in pi.
 
-因为我们中国人都对我们在圆周率方面的巨大成就引以为傲。
+Pi -> π
+
+圆周率 == YuanZhouLv(in pinyin) -> π
+
+> P.S. The real pinyin of 圆周率 looks like this `Yuán Zhōu Lǜ`
+
+As for why I choose pi? Because we Chinese are all proud at our great progress in pi.
+
+至于为什么要用圆周率? 因为我们中国人都对我们在圆周率方面的巨大成就引以为傲。
 
 > P.S. the text below is translate by machine
 
@@ -37,6 +44,10 @@ Around A.D. 480, Zuchongzhi, a mathematician in the southern and Northern Dynast
 In the following 800 years, the π value calculated by Zu Chongzhi was the most accurate. In the west, the secret rate was not obtained by German Valentinus Otho until 1573.
 
 在之后的800年里祖冲之计算出的π值都是最准确的。其中的密率在西方直到1573年才由德国人奥托（Valentinus Otho）得到。
+
+So, the pi shows the wise of our ancestors. It also a point to remind me to work for the great rejuvenation of the Chinese nation.
+
+所以，圆周率展示了我们老祖宗的智慧。那也是时刻提醒我要为中华民族的伟大复兴而奋斗的一点。
 
 ## Statistics 统计
 
