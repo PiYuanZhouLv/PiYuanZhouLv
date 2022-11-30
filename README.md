@@ -1,7 +1,4 @@
 # Hello World, Hello Pi! 你好世界，你好圆周率!
-I'm a student in China, I'm proud of it.
-
-我是一名学生，我自豪身为中国人。
 
 I may be busy at schoolwork, so I probably can't reply messages or fix bugs in a short time.
 
@@ -65,7 +62,7 @@ So, the pi shows the wise of our ancestors. It also a point to remind me to work
 > Summon by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 > 
 > 由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 生成
-
+<!--
 ## Some repo 一些仓库
 
 <table align="center" vaglin="middle">
@@ -134,3 +131,4 @@ So, the pi shows the wise of our ancestors. It also a point to remind me to work
     </td>
   </tr>
 </table>
+-->
