@@ -4,7 +4,7 @@ I may be busy at schoolwork, so I probably can't reply messages or fix bugs in a
 
 我可能因学业无法及时回复或处理bug。
 
-I'm also sorry for my poor English. ~(althought I always get a high mark in English exams)~ So if you find grammer errors, ignore them or help me correct them.
+I'm also sorry for my poor English. ~(although I always get a high mark in English exams)~ So if you find grammer errors, ignore them or help me correct them.
 
 我也为我并不是非常好的英语感到抱歉。 ~(尽管我经常拿高分)~ 所以，如果你找到了语法错误，请忽略它或帮我更正。
 
