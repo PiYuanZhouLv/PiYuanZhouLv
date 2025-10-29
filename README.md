@@ -1,5 +1,7 @@
 # Hello World, Hello Pi! 你好世界，你好圆周率!
 
+> 初中写的，懒得改了
+
 I may be busy at schoolwork, so I probably can't reply messages or fix bugs in a short time.
 
 我可能因学业无法及时回复或处理bug。
