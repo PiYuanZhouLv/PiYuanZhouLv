@@ -1,6 +1,8 @@
 # Hello World, Hello Pi! 你好世界，你好圆周率!
 
-> 初中写的，懒得改了
+在熬过了高三上的罕见病之后，上大学了！正在学习打习题爱抚，大佬们好可怕QwQ
+
+> 以下是初中写的，懒得改了
 
 I may be busy at schoolwork, so I probably can't reply messages or fix bugs in a short time.
 
