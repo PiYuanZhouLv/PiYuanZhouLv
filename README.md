@@ -12,11 +12,11 @@
 
 到了高中，触发事件`NCRE是什么？考一下`，拿到Python二级和嵌入式三级 ~~（然而似乎并没有什么用处~~，推出了[高考倒计时](https://github.com/PiYuanZhouLv/ExamDayCounterDown)（为了参赛甚至写了文档）、[醛锌版本课程表](https://github.com/PiYuanZhouLvGroup/NewClassSchedule)（加入整活及其他功能）、[辩论赛倒计时器](https://github.com/PiYuanZhouLv/DebateTimerHTML)（其实是史山一坨）、[生日礼物](https://github.com/PiYuanZhouLv/SmallPrograms/tree/main#birthdaygift)（充分体现理工直男浪漫（？））
 
-高三上突发恶疾（字面义），跑上海跑北京治了一个学期才治好，中间差点被阎王拉去修电子生死簿管理系统，回来连着考完了高三下学期，在高考中正常发挥（语文超常发挥），考上了 ~~信息黄泉（于今年4月初和隔壁校合并为北京大范电~~，也是一段传奇经历了，一直想把这段经历写成小说，但总是咕咕咕，感兴趣可以踢我（？），期间写了[大郎该吃药了](https://github.com/PiYuanZhouLv/MedTip)、[数字回响·出题程序](https://github.com/PiYuanZhouLv/BouncingMaze)（虽然不确定玩法的原创性，但是真的很有意思！也是我算法设计最得意之作，暂时没有之一！）
+高三上突发恶疾（字面义），跑上海跑北京治了一个学期才治好，中间差点被阎王拉去修电子生死簿管理系统，回来连着考完了高三下学期，在高考中正常发挥（语文超常发挥），考上了 ~~信息黄泉（于今年4月初和隔壁校合并为北京大范电~~，也是一段传奇经历了，一直想把这段经历写成小说，但总是咕咕咕，感兴趣可以踢我（？），期间写了[大郎该吃药了](https://github.com/PiYuanZhouLv/MedTip)（药太多了根本记不住！）、[考试倒计时器](https://github.com/PiYuanZhouLv/counterdown)（写了没用上，而且CORS绕过API炸了）、[数字回响·出题程序](https://github.com/PiYuanZhouLv/BouncingMaze)（虽然不确定玩法的原创性，但是真的很有意思！也是我算法设计最得意之作，暂时没有之一！）
 
-到了大学，被朋友评价“越来越接近他对计算机专业的刻板印象了”~~（我也要变图0派吗）~~，正式开启CTF生涯，喜欢小巧思和手搓，讨厌脑洞题和史，AI偏爱网页版D老师，~~然后就被AI干翻了~~，早期获得MoeCTF2025#2（没交WP）、0xGame2025#4（有效#2）、TSCTF-J2025#6（新生#3），后面就再也没有打出过好成绩了。初期为全栈，现在逐渐分化为misc大蛇，有脑洞就会丢到[每咕一题](https://piyuanzhoulv.github.io/problems/)上
+到了大学，被朋友评价“越来越接近他对计算机专业的刻板印象了”~~（我也要变图0派吗）~~，正式开启CTF生涯，喜欢小巧思和手搓，讨厌脑洞题和史，AI偏爱网页版D老师，~~然后就被AI干翻了~~，早期获得MoeCTF2025#2（没交WP）、0xGame2025#4（有效#2）、TSCTF-J2025#6（新生#3），后面就再也没有打出过好成绩了。初期为全栈，现在逐渐分化为misc大蛇，有脑洞就会丢到[每咕一题](https://piyuanzhoulv.github.io/problems/)上，写了像[神图后端](https://github.com/PiYuanZhouLv/ShenMemeOpenBackend)之类的小玩意，并且在Github给一些仓库提了PR（但是几乎都是一两行的simple fix，把我加到Contributors里面我自己都不好意思😖）
 
-我的[博客](https://piyuanzhoulv.github.io/)白嫖Github Pages，是纯静态[开源](https://github.com/PiYuanZhouLv/MyBlog)的依托史山，欢迎大手子[+友链](https://piyuanzhoulv.github.io/friends/)！
+我的[博客](https://piyuanzhoulv.github.io/)白嫖Github Pages，使用[hexo](https://github.com/hexojs/hexo)，主题魔改自[cactus](https://github.com/probberechts/hexo-theme-cactus)，是纯静态[开源](https://github.com/PiYuanZhouLv/MyBlog)的依托史山，欢迎大手子[+友链](https://piyuanzhoulv.github.io/friends/)！
 
 ---
 
