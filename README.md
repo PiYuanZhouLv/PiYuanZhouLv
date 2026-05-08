@@ -20,6 +20,7 @@
 
 ---
 
+统计数据由[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)通过[Github Action](https://github.com/stats-organization/github-readme-stats-action)生成
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
